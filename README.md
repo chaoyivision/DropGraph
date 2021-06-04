@@ -2,7 +2,7 @@
 Official implementation of "Partial Graph Reasoning for Neural Network Regularization"
 
 Project page: https://dropgraph.github.io/  
-Paper: *coming soon*
+Paper: https://arxiv.org/abs/2106.01805
 
 ![DropGraph](./teaser.png)
 
